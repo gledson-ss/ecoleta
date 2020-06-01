@@ -12,11 +12,11 @@ Título
 
 *descrição rápida sobre o sistema*
 
-<p>
+<p align="center">
 
-<img src=" [https://img.shields.io/badge/](https://img.shields.io/badge/)label-message-green" />&
+<img src=" https://img.shields.io/badge/label-message-green" />
 
-<img src=" [https://img.shields.io/badge/](https://img.shields.io/badge/)label-message-red" />&
+<img src=" https://img.shields.io/badge/made by-Gledson-red" />
 
  </p>
 
