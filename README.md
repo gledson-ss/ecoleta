@@ -37,7 +37,7 @@ Título
 
     🎥 run aplication
 
-    - npm run dev
+    - npm run dev || yarn dev
 
 - 📁 ./
 
