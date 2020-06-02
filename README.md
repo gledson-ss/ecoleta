@@ -45,7 +45,9 @@ Título
 
 - 📁 web
     
-    📦 not yet...
+    📦 packages
+
+    - not yet...
 
 
     🎥 run aplication
@@ -55,7 +57,7 @@ Título
 ## ✅ Accepted Commits
 
 - `:package:` add new package
-- `:memo:` add new function
+- `✏️` add new function
 - `:wrench:` fix bug
 - `:x:` delete file
 
