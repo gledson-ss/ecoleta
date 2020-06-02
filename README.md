@@ -16,22 +16,49 @@ Título
 
 <img src=" https://img.shields.io/badge/label-message-green" />
 
-<img src=" https://img.shields.io/badge/made by-Gledson-red" />
+<img src=" https://img.shields.io/badge/made%20by%20-Gledson-green" />
 
  </p>
 
-## :computer: Technologies
+## 💻 Technologies
 
 
-- list packages
+- 📁 server
+    
+    📦 packages
 
-## :white_check_mark: Accepted Commits
+    - npm init -y
+    - npm install typescript -D
+    - npm install express
+    - npm install @types/express -D
+    - npm install ts-node -D
+    - npx tsc --init
+    - npm install ts-node-dev -D
+
+    🎥 run aplication
+
+    - npm run dev
+
+- 📁 ./
+
+    - npx create-react-app web --template=typescript
+
+- 📁 web
+    
+    📦 not yet...
+
+
+    🎥 run aplication
+
+    - npm start
+
+## ✅ Accepted Commits
 
 - `:package:` add new package
-- `:memo: add new function`
-- `:wrench: fix bug`
-- `:x: delete file`
+- `:memo:` add new function
+- `:wrench:` fix bug
+- `:x:` delete file
 
 ---
 
-i just love creating codes :purple_heart:
+i just love creating codes 💜
