@@ -20,7 +20,7 @@ Título
 
  </p>
 
-## 💻 Technologies
+## 💻 Technology
 
 
 - 📁 server
