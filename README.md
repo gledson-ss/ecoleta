@@ -25,7 +25,7 @@ Título
 
 - 📁 server
     
-    📦 packages
+    📦 package(s)
 
     - npm init -y
     - npm install typescript -D
@@ -41,11 +41,13 @@ Título
 
 - 📁 ./
 
+    📦 package(s)
+
     - npx create-react-app web --template=typescript
 
 - 📁 web
     
-    📦 packages
+    📦 package(s)
 
     - not yet...
 
