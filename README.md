@@ -22,6 +22,9 @@ Título
 
 ## 💻 Technology
 
+- 📚 database
+
+    - sqlite
 
 - 📁 server
     
