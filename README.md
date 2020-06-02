@@ -59,7 +59,7 @@ Título
 ## ✅ Accepted Commits
 
 - `:package:` add new package
-- `✏️` add new function
+- `:pencil2:` add new function
 - `:wrench:` fix bug
 - `:x:` delete file
 
