@@ -57,8 +57,9 @@ Título
     
     📦 package(s)
 
-    - not yet...
-
+    -  npm install --save @types/react
+    -  npm install --save @types/react-dom
+    - npm install -D @types/react-icons
 
     🎥 run aplication
 
