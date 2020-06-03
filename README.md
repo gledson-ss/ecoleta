@@ -40,6 +40,8 @@ Título
     - npm install knex
     - npm install sqlite3
     - npm run knex:migrate || npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+    - npm install cors
+    - npm install @types/cors -D
     
     🎥 run aplication
 
