@@ -37,7 +37,10 @@ Título
     - npm install ts-node -D
     - npx tsc --init
     - npm install ts-node-dev -D
-
+    - npm install knex
+    - npm install sqlite3
+    - npm run knex:migrate || npx knex migrate:latest --knexfile knexfile.ts migrate:latest
+    
     🎥 run aplication
 
     - npm run dev || yarn dev
