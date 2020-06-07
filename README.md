@@ -60,7 +60,10 @@ Título
     - npm install --save @types/react
     - npm install --save @types/react-dom
     - npm install -D @types/react-icons
-
+    - npm install @types/react-router-dom
+    - npm install leaflet react-leaflet
+    - npm install @types/react-leaflet -D
+    - npm install axios
     🎥 run aplication
 
     - npm start
