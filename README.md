@@ -69,6 +69,12 @@ Título
 
     - npm start
 
+- 📁 mobile
+
+    📦 packages(s)
+
+    - not yet
+
 ## ✅ Accepted Commits
 
 - `:package:` add new package
